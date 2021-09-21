@@ -1,0 +1,2 @@
+# SMART-DUSTBIN-using-IOT
+The IOT project is built and enabled with automatic opening and closing of dustbin and applies disinfecting chemicals through a sprayer when garbage produces an enormous amount of stinking smell. There is an inbuilt indicator to have a visibility on the level of garbage in the dustbin. To enhance safety a Fire alarm is designed and will be triggered in case of fire and prevents fire and pollution. 
